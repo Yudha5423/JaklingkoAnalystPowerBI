@@ -50,6 +50,6 @@ Modeled the database structure utilizing a **Star Schema** layout, connecting Fa
 ## 📂 Repository Structure
 ```text
 ├── Data/                 # Sample anonymized datasets / Mock data (CSV/Excel)
-├── Dashboards/           # .pbix Power BI project files
+├── Dashboards/           # .pbix Power BI project link (https://drive.google.com/file/d/1o1geKNTujXUzzNsr-xGK1Dqokt9ik7IE/view?usp=sharing)
 ├── Screenshots/          # Image previews of the dashboard layout
 └── README.md             # Project documentation
