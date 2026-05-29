@@ -1,0 +1,21 @@
+transaction_id,timestamp,user_id,card_type,transport_mode,tap_in_station,tap_out_station,fare,status
+TXN001,2026-05-01 07:15:23,USR_9021,Multi-Trip,Transjakarta,Harmoni,Blok M,3500,Success
+TXN002,2026-05-01 07:30:10,USR_4412,Single-Trip,MRT,Lebak Bulus,Dukuh Atas,14000,Success
+TXN003,2026-05-01 07:45:18,USR_3389,JakLingko Card,LRT,Velodrome,Dukuh Atas,4000,Success
+TXN004,2026-05-01 08:02:05,USR_9021,Multi-Trip,MRT,Blok M,Bundaran HI,6500,Success
+TXN005,2026-05-01 08:12:44,USR_1102,Bank E-Money,Transjakarta,Monas,Senen,3500,Success
+TXN006,2026-05-01 08:45:00,USR_9021,Multi-Trip,LRT,Dukuh Atas,Kuningan,0,Success
+TXN007,2026-05-01 12:30:15,USR_5561,JakLingko Card,Transjakarta,Ragunan,Kuningan,3500,Success
+TXN008,2026-05-01 13:05:22,USR_5561,JakLingko Card,MRT,Asean,Senayan,3000,Success
+TXN009,2026-05-01 13:18:40,USR_5561,JakLingko Card,LRT,Setiabudi,Velodrome,3500,Success
+TXN010,2026-05-01 17:05:11,USR_2291,Bank E-Money,MRT,Fatmawati,Blok M,7000,Success
+TXN011,2026-05-01 17:15:30,USR_4412,Single-Trip,MRT,Dukuh Atas,Lebak Bulus,14000,Success
+TXN012,2026-05-01 17:33:02,USR_8819,Multi-Trip,Transjakarta,Grogol,Juanda,3500,Success
+TXN013,2026-05-01 17:50:55,USR_0034,JakLingko Card,MRT,Bundaran HI,Fatmawati,13000,Success
+TXN014,2026-05-01 18:10:12,USR_1102,Bank E-Money,Transjakarta,Senen,Kampung Melayu,3500,Success
+TXN015,2026-05-01 18:22:19,USR_9941,Multi-Trip,LRT,Pegangsaan Dua,Velodrome,5000,Success
+TXN016,2026-05-01 19:00:03,USR_6672,JakLingko Card,Transjakarta,Cawang,Semanggi,0,Failed
+TXN017,2026-05-02 07:02:14,USR_3110,Bank E-Money,Transjakarta,Tebet,Kuningan,3500,Success
+TXN018,2026-05-02 07:22:45,USR_3110,Bank E-Money,MRT,Bendungan Hilir,Dukuh Atas,4000,Success
+TXN019,2026-05-02 07:40:11,USR_3110,Bank E-Money,LRT,Dukuh Atas,Velodrome,2500,Success
+TXN020,2026-05-02 08:15:33,USR_5520,Multi-Trip,MRT,Lebak Bulus,Blok M,9000,Success
